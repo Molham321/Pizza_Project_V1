@@ -1,12 +1,12 @@
 # Photos
 
-[![Linked Image](https://github.com/Molham321/Pizza_Projekt_V1/blob/main/docu/Screenshot%202022-05-28%20163241.png)
+![Linked Image](https://github.com/Molham321/Pizza_Projekt_V1/blob/main/docu/Screenshot%202022-05-28%20163241.png)
 
-[![Linked Image](https://github.com/Molham321/Pizza_Projekt_V1/blob/main/docu/Screenshot%202022-05-28%20163338.png)
+![Linked Image](https://github.com/Molham321/Pizza_Projekt_V1/blob/main/docu/Screenshot%202022-05-28%20163338.png)
 
-[![Linked Image](https://github.com/Molham321/Pizza_Projekt_V1/blob/main/docu/Screenshot%202022-05-28%20163419.png)
+![Linked Image](https://github.com/Molham321/Pizza_Projekt_V1/blob/main/docu/Screenshot%202022-05-28%20163419.png)
 
-[![Linked Image](https://github.com/Molham321/Pizza_Projekt_V1/blob/main/docu/Screenshot%202022-05-28%20163442.png)
+![Linked Image](https://github.com/Molham321/Pizza_Projekt_V1/blob/main/docu/Screenshot%202022-05-28%20163442.png)
 
 
 # View the full tutorial on Youtube
