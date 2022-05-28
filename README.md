@@ -1,4 +1,4 @@
-# Hithap Pages
+# GitHap Pages
 https://molham321.github.io/Pizza_Projekt_V1/
 
 # View the full tutorial on Youtube
